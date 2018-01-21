@@ -1,0 +1,30 @@
+{
+  "name": "zinko-riot",
+  "version": "0.0.1",
+  "description": "Zinky module that compile module's riot tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zinkyJS/zinko-riot.git"
+  },
+  "keywords": [
+    "zinky",
+    "zinko",
+    "riotjs",
+    "zinkyjs",
+    "modular"
+  ],
+  "author": "Abu Rawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zinkyJS/zinko-riot/issues"
+  },
+  "homepage": "https://github.com/zinkyJS/zinko-riot#readme",
+  "dependencies": {
+    "riot": "^3.8.1",
+    "zinko": "0.0.13"
+  }
+}
